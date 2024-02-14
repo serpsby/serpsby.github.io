@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "deploy-ghp": "gh-pages -d public"
+    },
+    "dependencies": {
+        "gh-pages": "^6.1.1"
+    }
+}
